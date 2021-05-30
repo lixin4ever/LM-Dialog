@@ -1,5 +1,5 @@
 # LM-Dialog
-Implementation for our paper entitled "Relevance-Promoting Language Model for Short-Text Conversation" (AAAI 2020). 
+Implementation of our paper entitled "Relevance-Promoting Language Model for Short-Text Conversation" (AAAI 2020). 
 <p align="center">
     <img src="architecture.jpg" height="450"/>
 </p>
